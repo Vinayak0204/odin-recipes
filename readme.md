@@ -1,0 +1,1 @@
+This is the first project 'recipes' under odin project. Used to practice basic HTML skills.
